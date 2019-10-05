@@ -7,7 +7,7 @@ user_question = input("What would you like to ask the Magic 8 Ball?\n")
 print(f"You asked: {user_question}")
 print("Thinking...")
 time.sleep(3)
-print ("Magic 8 Ball's response: '" + answers[random.randint(1,21)] + "'")
+print ("Magic 8 Ball's response: '" + random.choice(answers) + "'")
 
 
 
