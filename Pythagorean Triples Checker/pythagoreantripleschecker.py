@@ -22,9 +22,9 @@ check = 'Y'
 
 while check == 'Y':
 	checker()
-	
+
 	# prompt to try again
-	check = input("Would you like to try again? Enter Y/N: ")
+	check = (input("Would you like to try again? Enter Y/N: ")).upper()
 
 
 
