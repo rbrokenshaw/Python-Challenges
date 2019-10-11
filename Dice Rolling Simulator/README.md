@@ -11,3 +11,5 @@
 	<li>Put the program into a loop so that the user can continue to simulate dice rolls without having to restart the entire program.</li>
 	<li>In addition to printing out how many times each side appeared, also print out the percentage it appeared. If you can, round the percentage to 4 digits total OR two decimal places.</li>
 </ul>
+
+<small><a href="https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/mobilebasic?urp=gmail_link">Source</a></small>

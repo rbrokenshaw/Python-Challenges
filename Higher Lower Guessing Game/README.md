@@ -11,3 +11,5 @@
 	<li>In addition to the congratulatory message at the end of the game, also print out how many guesses were taken before the user arrived at the correct answer.</li>
 	<li>At the end of the game, allow the user to decide if they want to play again (without having to restart the program).</li>
 </ul>
+
+<small><a href="https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/mobilebasic?urp=gmail_link">Source</a></small>

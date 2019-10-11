@@ -15,3 +15,5 @@
 	<li>If there is an even number of numbers in the list, return both numbers that could be considered the median.</li>
 	<li>If there are multiple modes, return all of them.</li>
 </ul>
+
+<small><a href="https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/mobilebasic?urp=gmail_link">Source</a></small>

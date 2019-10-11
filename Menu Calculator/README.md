@@ -23,3 +23,6 @@
 <ul>
 	<li>If you decide to, print out the items and prices every time before the user types in an order.</li>
 	<li>Once the user has entered an order, print out how many of each item have been ordered, as well as the total price. If an item was not ordered at all, then it should not show up.</li>
+</ul>
+
+<small><a href="https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/mobilebasic?urp=gmail_link">Source</a></small>

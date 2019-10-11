@@ -19,3 +19,5 @@
 	<li>A box for users to enter the question</li>
 	<li>At least 4 buttons: Ask , clear(the text box), play again and quit(this must close the window)</li>
 </ol>
+
+<small><a href="https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/mobilebasic?urp=gmail_link">Source</a></small>

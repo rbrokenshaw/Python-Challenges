@@ -12,3 +12,5 @@
 	<li>Remember, when you reach 1 bottle left, the word "bottles" becomes singular.</li>
 	<li>Put a blank line between each verse of the song.</li>
 </ol>
+
+<small><a href="https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/mobilebasic?urp=gmail_link">Source</a></small>
