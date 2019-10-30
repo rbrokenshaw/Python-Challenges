@@ -8,3 +8,8 @@ def series(a, b, int):
 		start += pattern
 
 	return pattern_list[-1]
+
+# test the function
+
+print (series(2,3,4))
+print (series(1,2,10))

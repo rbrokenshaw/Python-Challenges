@@ -1,4 +1,6 @@
-<h1>Print the table of a given number N.</h1>
+<h1>Print table</h1>
+
+<p>Print the table of a given number N.</p>
 
 <h2>Input:</h2>
 <p>First line contains an integer, the number of test cases 'T'. T testcases follow. Each testcase cotains one line of input denoting N.</p>
