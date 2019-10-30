@@ -6,9 +6,6 @@ def series(a, b, int):
 	for i in range(int - 1):
 		pattern_list.append(start + pattern)
 		start += pattern
-
-	print (pattern_list)
-
 	return pattern_list[-1]
 
 # test the function
