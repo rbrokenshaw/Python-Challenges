@@ -17,3 +17,5 @@
 
 <h2>Output:</h2>
 <p>9 18 27 36 45 54 63 72 81 90</p>
+
+<small><a href="https://practice.geeksforgeeks.org/problems/print-table/0">Source</a></small>
