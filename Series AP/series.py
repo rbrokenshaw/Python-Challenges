@@ -7,6 +7,8 @@ def series(a, b, int):
 		pattern_list.append(start + pattern)
 		start += pattern
 
+	print (pattern_list)
+
 	return pattern_list[-1]
 
 # test the function
