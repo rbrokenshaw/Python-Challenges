@@ -21,3 +21,5 @@
 Output:<br>
 12<br>
 -18</p>
+
+<small><a href="https://practice.geeksforgeeks.org/problems/closest-number/0">Source</a></small>
