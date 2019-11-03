@@ -22,4 +22,4 @@ Output:<br>
 7<br>
 2</p>
 
-<small><a href="https://practice.geeksforgeeks.org/problems/print-the-kth-digit/0"></a>Source</small>
+<small><a href="https://practice.geeksforgeeks.org/problems/print-the-kth-digit/0">Source</a></small>

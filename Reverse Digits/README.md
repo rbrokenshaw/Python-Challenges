@@ -21,4 +21,4 @@ Output:<br>
 2<br>
 221</p>
 
-<small><a href="https://practice.geeksforgeeks.org/problems/reverse-digit/0"></a>Source</small>
+<small><a href="https://practice.geeksforgeeks.org/problems/reverse-digit/0">Source</a></small>
