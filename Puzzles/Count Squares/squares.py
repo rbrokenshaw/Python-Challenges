@@ -10,6 +10,5 @@ def countSquares(n):
 
 # test the function
 
-
 print (countSquares(9))
 print (countSquares(3))
